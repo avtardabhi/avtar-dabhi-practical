@@ -1,0 +1,895 @@
+@media (max-width: 1199px) {
+  .all-sectors-section .sector-panel {
+    padding: 40px;
+  }
+
+  .all-sectors-section .verified-title {
+    font-size: 42px;
+  }
+
+  .all-sectors-section .process-item h3 {
+    font-size: 30px;
+  }
+
+  .all-sectors-section .sector-title {
+    font-size: 17px;
+  }
+
+  .service-info-card-content .service-info-card-title {
+    font-size: 44px;
+  }
+}
+
+@media(max-width:991px) {
+
+  .header .menu .nav-link,
+  .header .right-menu .nav-link {
+    margin: 8px 0;
+  }
+
+  .header {
+    height: auto;
+  }
+
+  .banner {
+    min-height: 500px;
+  }
+
+  .banner-content {
+    max-width: 450px;
+  }
+
+  .banner-content h1 {
+    font-size: 45px;
+  }
+
+  .stack-content h2 {
+    font-size: 34px;
+  }
+
+  .all-sectors-section .sector-panel {
+    padding: 30px;
+    border-radius: 24px;
+  }
+
+  .all-sectors-section .section-heading {
+    font-size: 38px;
+    margin-bottom: 30px;
+  }
+
+  .all-sectors-section .verified-title {
+    font-size: 34px;
+    text-align: center;
+    margin-top: 30px;
+  }
+
+  .all-sectors-section .verified-text {
+    text-align: center;
+    max-width: 600px;
+    margin: 20px auto;
+  }
+
+  .all-sectors-section .custom-btn {
+    display: table;
+    margin: 0 auto;
+  }
+
+  .all-sectors-section .process-item {
+    text-align: center;
+  }
+
+  .all-sectors-section .process-line {
+    max-width: 120px;
+    margin: 0 auto 20px;
+  }
+
+  .all-sectors-section .process-item h3 {
+    font-size: 28px;
+  }
+
+  .all-sectors-section .process-item p {
+    max-width: 320px;
+    margin: 0 auto;
+  }
+
+  .partner-testimonial {
+    padding: 60px 0;
+  }
+
+  .partner-testimonial .partner-testimonial-box {
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 40px;
+  }
+
+  .partner-testimonial .partner-testimonial-text {
+    font-size: 20px;
+  }
+
+  .all-sectors-section .sector-panel {
+    padding: 24px;
+  }
+
+  .all-sectors-section .verified-title {
+    font-size: 36px;
+    text-align: center;
+  }
+
+  .all-sectors-section .verified-text {
+    text-align: center;
+  }
+
+  .all-sectors-section.custom-btn {
+    display: block;
+    margin: auto;
+  }
+
+  .partner-programmes-section .partner-card h3 {
+    font-size: 28px;
+  }
+
+  .partner-programmes-section .partner-image {
+    height: 240px;
+  }
+
+  .project-slider-section .project-slider-subtitle {
+    font-size: 32px;
+    text-align: center;
+  }
+
+  .project-slider-section .btn {
+    display: block;
+    margin: 0 auto;
+  }
+
+  .subscribe-section .subscribe-content {
+    padding: 40px 30px;
+  }
+
+  .subscribe-section .subscribe-form-wrapper {
+    border-right: none;
+    padding-right: 0;
+  }
+
+  .subscribe-section .subscribe-form-wrapper h2 {
+    font-size: 34px;
+  }
+
+  .subscribe-section .subscribe-image {
+    min-height: 320px;
+  }
+
+  .service-info-card-content {
+    max-width: 100%;
+  }
+
+  .service-info-card-content .service-info-card-title {
+    font-size: 38px;
+  }
+
+  .service-info-card-image-wrapper {
+    margin-top: 24px;
+  }
+
+  .service-subscribe-section .service-subscribe-title {
+    font-size: 44px;
+  }
+
+  .service-subscribe-section .service-subscribe-description {
+    max-width: 100%;
+    margin-bottom: 16px;
+  }
+
+  .team-collaborates-section .section-heading {
+    margin-bottom: 40px;
+  }
+
+  .team-collaborates-section .team-collaborates-logo {
+    padding: 50px 20px 30px;
+  }
+
+  .team-collaborates-section .team-collaborates-logo h3 {
+    font-size: 56px;
+  }
+
+  .team-collaborates-section .team-collaborates-play-btn {
+    width: 72px;
+    height: 72px;
+    font-size: 26px;
+  }
+
+  .main-services-section .main-services-description {
+    max-width: 100%;
+  }
+
+  .main-services-section .card-title {
+    font-size: 28px;
+  }
+
+  .optional-services-section .optional-services-image-wrapper {
+    margin-top: 20px;
+  }
+
+  .optional-services-section .optional-services-title-wrap h4 {
+    font-size: 28px;
+  }
+
+  .leading-developer-section .section-heading {
+    margin-bottom: 50px;
+  }
+
+  .leading-developer-section .leading-developer-card {
+    padding: 0 20px;
+  }
+
+  .leading-developer-section .leading-developer-card h3 {
+    font-size: 24px;
+  }
+
+  .leading-developer-section .leading-developer-card p {
+    font-size: 16px;
+  }
+
+  .gov-requirement-section .section-heading {
+    margin-bottom: 50px;
+  }
+
+  .gov-requirement-section .gov-requirement-left {
+    margin-bottom: 10px;
+  }
+
+  .gov-requirement-section .gov-requirement-left h3 {
+    font-size: 38px;
+  }
+
+  .gov-requirement-section .gov-requirement-content h4 {
+    font-size: 30px;
+  }
+
+  .techno-powered .techno-powered-header {
+    margin-bottom: 40px;
+  }
+
+  .techno-powered .techno-powered-description {
+    font-size: 15px;
+    line-height: 1.7;
+    max-width: 100%;
+  }
+
+  .our-team-section .our-team-content h3 {
+    font-size: 30px;
+  }
+
+  .our-team-section .our-team-image {
+    width: 32%;
+  }
+
+  .quote-card .quote-card-title {
+    font-size: 42px;
+  }
+}
+
+/* ======================
+   Tablet
+====================== */
+
+@media(max-width:768px) {
+  section {
+    padding: 60px 0;
+  }
+
+  .welcome-content {
+    font-size: 13px;
+  }
+
+  .projects {
+    padding: 50px 15px;
+  }
+
+  .projects-heading {
+    font-size: 25px;
+  }
+
+  .project-body {
+    padding: 20px;
+  }
+
+  .all-sectors-section .sector-panel {
+    padding: 20px;
+    border-radius: 18px;
+  }
+
+  .all-sectors-section .section-heading {
+    font-size: 32px;
+    line-height: 1.3;
+    margin-bottom: 24px;
+  }
+
+  .all-sectors-section .sector-card {
+    min-height: 150px;
+  }
+
+  .all-sectors-section .sector-icon-wrapper {
+    width: 50px;
+    height: 50px;
+  }
+
+  .all-sectors-section .sector-circle {
+    width: 22px;
+    height: 22px;
+  }
+
+  .all-sectors-section .sector-icon svg {
+    width: 30px;
+    height: 30px;
+  }
+
+  .all-sectors-section .sector-title {
+    font-size: 15px;
+  }
+
+  .all-sectors-section .verified-title {
+    font-size: 30px;
+  }
+
+  .all-sectors-section .verified-text {
+    font-size: 15px;
+    line-height: 1.6;
+  }
+
+  .all-sectors-section .process-item h3 {
+    font-size: 24px;
+  }
+
+  .all-sectors-section .process-item p {
+    font-size: 14px;
+  }
+
+  .partner-testimonial .partner-testimonial {
+    margin-top: 50px;
+    padding: 40px 0;
+  }
+
+  .partner-testimonial .partner-testimonial-box {
+    padding: 30px 15px;
+  }
+
+  .partner-testimonial .partner-testimonial-text {
+    font-size: 18px;
+  }
+
+  .partner-programmes-section .partner-card-content {
+    padding: 20px;
+  }
+
+  .partner-programmes-section .partner-card h3 {
+    font-size: 24px;
+  }
+
+  .partner-programmes-section .partner-card p {
+    font-size: 14px;
+  }
+
+  .partner-programmes-section .partner-image {
+    height: 220px;
+  }
+
+  .project-slider-section .project-slider-subtitle {
+    font-size: 26px;
+  }
+
+  .project-slider-section .project-image {
+    height: 220px;
+  }
+
+  .project-slider-section .project-content h4 {
+    font-size: 18px;
+  }
+
+  .subscribe-section .subscribe-content {
+    padding: 30px 20px;
+  }
+
+  .subscribe-section .subscribe-form-wrapper h2 {
+    font-size: 28px;
+  }
+
+  .subscribe-section .subscribe-description {
+    font-size: 15px;
+  }
+
+  .subscribe-section .subscribe-image {
+    min-height: 260px;
+  }
+
+  .service-info-card-content .service-info-card-title {
+    font-size: 32px;
+  }
+
+  .service-info-card-content .service-info-card-description {
+    font-size: 15px;
+  }
+
+  .service-subscribe-section .service-subscribe-title {
+    font-size: 36px;
+  }
+
+  .service-subscribe-section .service-subscribe-description {
+    font-size: 18px;
+  }
+
+  .service-subscribe-section .service-subscribe-input-group {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .service-subscribe-section .service-subscribe-input-group .btn {
+    width: 100%;
+  }
+
+  .team-collaborates-section .team-collaborates-logo h3 {
+    font-size: 42px;
+  }
+
+  .team-collaborates-section .team-collaborates-play-btn {
+    width: 60px;
+    height: 60px;
+    font-size: 22px;
+  }
+
+  .main-services-section .main-services-description {
+    font-size: 15px;
+  }
+
+  .main-services-section .card-title {
+    font-size: 24px;
+  }
+
+  .main-services-section .main-services-tagline {
+    text-align: center;
+  }
+
+  .optional-services-section .section-heading {
+    margin-bottom: 40px;
+  }
+
+  .optional-services-section .optional-services-title-wrap {
+    gap: 12px;
+  }
+
+  .optional-services-section .optional-services-title-wrap h4 {
+    font-size: 22px;
+  }
+
+  .optional-services-section .optional-services-body {
+    padding-left: 36px;
+  }
+
+  .optional-services-section .optional-services-body p {
+    font-size: 15px;
+  }
+
+  .leading-developer-section .leading-developer-border {
+    border-right: none;
+    border-bottom: 1px solid var(--green-color);
+  }
+
+  .leading-developer-section .leading-developer-card {
+    padding: 30px 0;
+  }
+
+  .leading-developer-section .leading-developer-card h3 {
+    font-size: 22px;
+  }
+
+  .leading-developer-section .leading-developer-card p {
+    font-size: 15px;
+    line-height: 1.7;
+  }
+
+  .leading-developer-section .section-heading {
+    margin-bottom: 35px;
+  }
+
+  .gov-requirement-section .gov-requirement-left h3 {
+    font-size: 32px;
+  }
+
+  .gov-requirement-section .gov-requirement-item {
+    gap: 18px;
+    padding: 24px 0;
+  }
+
+  .gov-requirement-section .gov-requirement-content h4 {
+    font-size: 24px;
+  }
+
+  .gov-requirement-section .gov-requirement-left p,
+  .gov-requirement-section .gov-requirement-content p {
+    font-size: 15px;
+  }
+
+  .techno-powered .techno-powered-header {
+    margin-bottom: 30px;
+  }
+
+  .techno-powered .techno-powered-description {
+    font-size: 14px;
+    line-height: 1.7;
+    margin: 20px auto 30px;
+  }
+
+  .techno-powered .techno-powered-image-wrapper,
+  .techno-powered .techno-powered-image-wrapper img {
+    border-radius: 12px;
+  }
+
+  .our-team-section .our-team-image {
+    width: 150px;
+    min-height: 210px;
+  }
+
+  .our-team-section .our-team-image img {
+    max-height: 280px;
+    width: auto;
+  }
+
+  .our-team-section .our-team-content h3 {
+    font-size: 28px;
+  }
+
+  .our-team-section .our-team-content ul {
+    display: none;
+  }
+
+  .quote-card .quote-card-wrapper {
+    text-align: center;
+  }
+
+  .quote-card .quote-card-title {
+    font-size: 34px;
+    line-height: 1.35;
+  }
+
+  .quote-card .text-md-end {
+    text-align: center !important;
+  }
+
+  .software-proprietary .sp-wrapper {
+    width: 100%;
+  }
+
+  .software-proprietary .sp-branch {
+    flex-direction: column;
+    gap: 60px;
+  }
+
+  .software-proprietary .sp-branch-item {
+    width: 100%;
+  }
+
+  .software-proprietary .sp-branch-item:after {
+    display: none;
+  }
+
+  .software-proprietary .sp-card h3 {
+    font-size: 20px;
+  }
+
+  .software-proprietary .software-proprietary {
+    padding: 50px 20px;
+    overflow: hidden;
+  }
+
+  .software-proprietary .sp-card {
+    width: 100%;
+
+  }
+
+  .vertex-modal .vertex-modal {
+    padding: 15px;
+  }
+
+  .vertex-modal .vertex-modal-content {
+    padding: 25px;
+  }
+
+  .vertex-modal .vertex-modal-content h2 {
+    font-size: 28px;
+  }
+
+  .vertex-modal .vertex-modal-content p {
+    font-size: 13px;
+  }
+}
+
+
+
+/* ======================
+   Mobile
+====================== */
+
+@media(max-width:576px) {
+  section {
+    padding: 50px 0;
+  }
+
+  .welcome-content,
+  .welcome-new-home .read-more {
+    font-size: 9px;
+  }
+
+  .banner {
+    min-height: 450px;
+    padding: 30px 0;
+  }
+
+  .banner-content {
+    margin: 0 15px;
+    padding: 25px 20px;
+  }
+
+  .banner-content h1 {
+    font-size: 32px;
+  }
+
+  .brand-partner {
+    padding: 10px 0;
+  }
+
+  .brand-partner .brand-item {
+    height: 55px;
+  }
+
+  .brand-partner img {
+    max-width: 120px;
+  }
+
+  .stack-hub {
+    padding: 50px 15px;
+  }
+
+  .stack-hub .stack-content h2 {
+    font-size: 26px;
+  }
+
+  .stack-hub .stack-content h2 br {
+    display: none;
+  }
+
+  .stack-hub .stack-content p {
+    font-size: 13px;
+  }
+
+  .stack-hub .stack-action {
+    gap: 20px;
+  }
+
+  .stack-hub .play-btn {
+    width: 50px;
+    height: 50px;
+  }
+
+  .all-sectors-section .sector-panel {
+    padding: 16px;
+    border-radius: 16px;
+  }
+
+  .all-sectors-section .section-heading {
+    font-size: 28px;
+    line-height: 1.3;
+  }
+
+  .all-sectors-section .sector-card {
+    min-height: 130px;
+  }
+
+  .all-sectors-section .sector-icon-wrapper {
+    width: 42px;
+    height: 42px;
+  }
+
+  .all-sectors-section .sector-circle {
+    width: 18px;
+    height: 18px;
+  }
+
+  .all-sectors-section .sector-icon svg {
+    width: 26px;
+    height: 26px;
+  }
+
+  .all-sectors-section .sector-title {
+    font-size: 13px;
+    line-height: 1.4;
+  }
+
+  .all-sectors-section .verified-title {
+    font-size: 26px;
+  }
+
+  .all-sectors-section .verified-text {
+    font-size: 14px;
+  }
+
+  .all-sectors-section .custom-btn {
+    width: 100%;
+  }
+
+  .all-sectors-section .process-item h3 {
+    font-size: 22px;
+  }
+
+  .all-sectors-section .process-item p {
+    font-size: 13px;
+  }
+
+  .partner-testimonial .partner-testimonial-text {
+    font-size: 16px;
+    line-height: 1.5;
+  }
+
+  .partner-testimonial .partner-testimonial-footer {
+    font-size: 10px;
+  }
+
+  .partner-testimonial .partner-testimonial-logo {
+    font-size: 16px;
+  }
+
+  .partner-programmes-section .partner-card-content {
+    padding: 16px;
+  }
+
+  .partner-programmes-section .partner-card h3 {
+    font-size: 22px;
+  }
+
+  .partner-programmes-section .partner-image {
+    height: 200px;
+  }
+
+  .partner-programmes-section .btn {
+    width: 100%;
+  }
+
+  .project-slider-section .project-slider-subtitle {
+    font-size: 22px;
+  }
+
+  .project-slider-section .project-image {
+    height: 200px;
+  }
+
+  .project-slider-section .project-content {
+    padding: 16px;
+  }
+
+  .project-slider-section .project-content h4 {
+    font-size: 16px;
+  }
+
+  .subscribe-section .subscribe-form-wrapper h2 {
+    font-size: 24px;
+  }
+
+  .subscribe-section .subscribe-note {
+    font-size: 12px;
+  }
+
+  .subscribe-section .btn {
+    width: 100%;
+  }
+
+  .service-info-card-content .service-info-card-title {
+    font-size: 28px;
+  }
+
+  .service-info-card-content .service-info-card-subtitle {
+    font-size: 11px;
+  }
+
+  .service-info-card-content .service-info-card-description {
+    font-size: 14px;
+  }
+
+  .service-info-card-content .btn {
+    width: 100%;
+  }
+
+  .service-subscribe-section .service-subscribe-title {
+    font-size: 30px;
+  }
+
+  .service-subscribe-section .service-subscribe-description {
+    font-size: 16px;
+  }
+
+  .service-subscribe-section .service-subscribe-label {
+    font-size: 12px;
+  }
+
+  .team-collaborates-section .team-collaborates-card {
+    border-radius: 14px;
+  }
+
+  .team-collaborates-section .team-collaborates-logo {
+    padding: 36px 16px 24px;
+  }
+
+  .team-collaborates-section .team-collaborates-logo h3 {
+    font-size: 34px;
+  }
+
+  .team-collaborates-section .team-collaborates-logo p {
+    font-size: 10px;
+  }
+
+  .team-collaborates-section .team-collaborates-play-btn {
+    width: 52px;
+    height: 52px;
+    font-size: 18px;
+  }
+
+  .main-services-section .card-body {
+    padding: 20px;
+  }
+
+  .main-services-section .card-title {
+    font-size: 22px;
+  }
+
+  .main-services-section .card-text {
+    font-size: 14px;
+  }
+
+  .optional-services-section .optional-services-header {
+    align-items: flex-start;
+  }
+
+  .optional-services-section .optional-services-title-wrap h4 {
+    font-size: 18px;
+  }
+
+  .optional-services-section .optional-services-toggle {
+    width: 36px;
+    height: 36px;
+  }
+
+  .optional-services-section .optional-services-body {
+    padding-left: 0;
+  }
+
+  .leading-developer-section .leading-developer-card h3 {
+    font-size: 20px;
+  }
+
+  .leading-developer-section .leading-developer-card p {
+    font-size: 14px;
+  }
+
+  .gov-requirement-section .section-heading {
+    margin-bottom: 35px;
+  }
+
+  .gov-requirement-section .gov-requirement-left h3 {
+    font-size: 28px;
+  }
+
+  .gov-requirement-section .gov-requirement-content h4 {
+    font-size: 22px;
+  }
+
+  .gov-requirement-section .gov-requirement-item {
+    flex-direction: column;
+    gap: 12px;
+  }
+
+  .techno-powered .techno-powered-description br {
+    display: none;
+  }
+
+  .quote-card .quote-card-title {
+    font-size: 28px;
+  }
+}

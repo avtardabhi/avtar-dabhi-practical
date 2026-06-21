@@ -1,0 +1,48 @@
+:root {
+
+  /* Colors */
+
+  --primary-bg: #0F2C2B;
+
+  --secondary-bg: #143D3B;
+
+  --text-white: #ffffff;
+
+  --text-light: #9AF5DE;
+
+
+  --accent-color: #BAFAEA;
+
+  --green-color: #05B388;
+
+
+  --button-color: #FF6B6B;
+
+  --button-hover: #FF4F55;
+
+
+
+  /* Typography */
+
+  --font-primary: "Inter", sans-serif;
+
+
+  /* Spacing */
+
+  --container-width: 1200px;
+
+
+  /* Border */
+
+  --radius-sm: 8px;
+
+  --radius-md: 16px;
+
+  --radius-pill: 50px;
+
+
+  /* Transition */
+
+  --transition: all .3s ease;
+
+}

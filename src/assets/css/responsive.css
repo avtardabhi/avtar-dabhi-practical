@@ -1,4 +1,8 @@
 @media (max-width: 1199px) {
+  .section-heading {
+    font-size: 28px;
+  }
+
   .all-sectors-section .sector-panel {
     padding: 40px;
   }
@@ -600,6 +604,10 @@
 
   .vertex-modal .vertex-modal-content p {
     font-size: 13px;
+  }
+
+  .section-heading {
+    font-size: 22px;
   }
 }
 

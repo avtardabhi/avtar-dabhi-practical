@@ -70,7 +70,7 @@ export default function DeveloperCard() {
                   <p className="client-description mt-3">{item.description}</p>
 
                   <div className="mt-auto text-end">
-                    <i class="fa-solid fa-chevron-right"></i>
+                    <div class="project-arrow">→</div>
                   </div>
                 </Card.Body>
               </Card>

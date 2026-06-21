@@ -41,7 +41,9 @@ export default function PartnerProgrammes() {
 
                     <p>{item.description}</p>
 
-                    <Button variant="danger">{item.button}</Button>
+                    <Button variant="danger">
+                      {item.button} <i class="fa-solid fa-chevron-right"></i>
+                    </Button>
                   </div>
 
                   <img

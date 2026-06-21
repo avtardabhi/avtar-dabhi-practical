@@ -797,7 +797,8 @@ section {
   padding-right: 40px;
 }
 
-.project-slider-section .project-arrow {
+.project-slider-section .project-arrow,
+.client-section .project-arrow {
   position: absolute;
   right: 20px;
   bottom: 10px;

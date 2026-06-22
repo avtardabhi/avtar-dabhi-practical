@@ -8,8 +8,7 @@ function StackHub() {
       <div className="container">
         <h2 className="section-heading">
           Through <strong>Stak Hub,</strong> explore and manage your
-          <br />
-          spatial data <strong>effortlessly.</strong>
+          <br /> spatial data <strong>effortlessly.</strong>
         </h2>
         <div className="stack-content">
           <p>

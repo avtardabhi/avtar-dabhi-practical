@@ -2,6 +2,7 @@ import { Container, Row, Col, Card, Button } from "react-bootstrap";
 
 import referralImage from "../../assets/images/partner1.png";
 import captureImage from "../../assets/images/partner2.png";
+import partnertestimonial from "../../assets/images/partner-testimonial.png";
 
 const programmes = [
   {
@@ -72,7 +73,13 @@ export default function PartnerProgrammes() {
             — JAMES MADDOCK, HEAD OF OCCUPIER SERVICES, EMEA, CUSHMAN &
             WAKEFIELD
           </div>
-
+          <div className="partner-testimonial-footer">
+            <img
+              src={partnertestimonial}
+              alt={partnertestimonial}
+              className="img-fluid "
+            />
+          </div>
           <div className="partner-testimonial-logo">
             CUSHMAN &amp; WAKEFIELD
           </div>

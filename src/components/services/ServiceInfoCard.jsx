@@ -52,7 +52,7 @@ const ServiceInfoCard = () => {
           <Row key={service.id} className="align-items-center service-info-row">
             {service.imageLeft ? (
               <>
-                <Col lg={6} className="mb-4 mb-lg-0">
+                <Col lg={6} className="mb-4 mb-lg-0 order-2 order-lg-1">
                   <div className="service-info-section-image-wrapper">
                     <img
                       src={service.image}
@@ -62,7 +62,7 @@ const ServiceInfoCard = () => {
                   </div>
                 </Col>
 
-                <Col lg={6}>
+                <Col lg={6} className="order-1 order-lg-2">
                   <div className="service-info-section-content">
                     <h2 className="service-info-section-title">
                       {service.title}

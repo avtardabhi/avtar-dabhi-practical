@@ -14,7 +14,12 @@ function Header() {
         <Navbar.Brand href="#home">
           <img src={logo} alt="logo" />
         </Navbar.Brand>
-        <Navbar.Toggle aria-controls="responsive-navbar-nav" />
+        <Navbar.Toggle
+          aria-controls="responsive-navbar-nav"
+          className="custom-toggle"
+        >
+          <i className="fa-solid fa-bars"></i>
+        </Navbar.Toggle>
         <Navbar.Collapse id="responsive-navbar-nav">
           <Nav className="me-auto menu">
             <Nav.Link href="#features">SERVICES</Nav.Link>

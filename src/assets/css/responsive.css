@@ -22,6 +22,10 @@
   .service-info-card-content .service-info-card-title {
     font-size: 44px;
   }
+
+  .service-info-section-content {
+    padding: 25px;
+  }
 }
 
 @media(max-width:991px) {
@@ -334,11 +338,13 @@
 
   .all-sectors-section .verified-title {
     font-size: 30px;
+    text-align: left;
   }
 
   .all-sectors-section .verified-text {
     font-size: 15px;
     line-height: 1.6;
+    text-align: left;
   }
 
   .all-sectors-section .process-item h3 {
@@ -916,4 +922,10 @@
   h2.section-heading br {
     display: none;
   }
+
+  .footer-section .footer-scroll-top {
+    display: none;
+  }
+
+
 }

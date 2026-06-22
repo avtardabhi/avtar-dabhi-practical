@@ -26,7 +26,7 @@ export default function AllSectorsData() {
   return (
     <section className="all-sectors-section">
       <Container>
-        <Row className="align-items-center  g-5">
+        <Row className="align-items-center">
           <Col lg={8}>
             <img
               src={cityImage}

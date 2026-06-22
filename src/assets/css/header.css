@@ -5,6 +5,19 @@
 
 }
 
+.header .custom-toggle {
+    border: none;
+    color: #B7FFF0;
+    font-size: 32px;
+    padding: 0;
+
+}
+
+.header .custom-toggle:focus {
+
+    box-shadow: none;
+}
+
 .header .menu .nav-link,
 .header .right-menu .nav-link {
 
@@ -15,4 +28,11 @@
     text-transform: uppercase;
     font-family: "IBM Plex Mono", monospace;
 
+}
+
+@media (max-width: 767px) {
+    .right-menu.d-flex.align-items-center.navbar-nav {
+        align-items: flex-start !important;
+
+    }
 }

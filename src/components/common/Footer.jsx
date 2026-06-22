@@ -112,7 +112,7 @@ export default function Footer() {
         <Row className="footer-office-row gy-4">
           <Col lg={3} md={6}>
             <div className="footer-border">
-              <h6>● UK</h6>
+              <h6>● &nbsp;UK </h6>
               <p>
                 Office 202, Cubo Soho, Ilona Rose House, Manette Street, London,
                 W1D 4AL.Digital Reality Corp Ltd is registered in England and
@@ -123,7 +123,7 @@ export default function Footer() {
 
           <Col lg={3} md={6}>
             <div className="footer-border">
-              <h6>● UAE</h6>
+              <h6>● &nbsp;UAE </h6>
               <p>
                 Office G64, Building 17, Dubai Internet City, UAE. Call +971 (4)
                 554 3747. Digital Reality FZ-LLC is registered in the UAE with
@@ -134,14 +134,14 @@ export default function Footer() {
 
           <Col lg={3} md={6}>
             <div className="footer-border">
-              <h6>● SINGAPORE</h6>
+              <h6>● &nbsp; SINGAPORE </h6>
               <p>150 Beach Road, #35-00 Gateway West, Singapore 189720.</p>
             </div>
           </Col>
 
           <Col lg={3} md={6}>
             <div className="footer-border">
-              <h6>● USA</h6>
+              <h6>● &nbsp;USA </h6>
               <p>Chicago, Illinois.</p>
             </div>
           </Col>
